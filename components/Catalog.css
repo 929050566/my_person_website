@@ -1,0 +1,27 @@
+/* src/components/Catalog.css */
+.catalog-nav {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.catalog-nav button {
+  background-color: #163633;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  margin: 0 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.catalog-nav button:hover {
+  background-color: #163633;
+}
+
+.catalog-base {
+  background-color: #163633;
+  width: 100%;
+  box-sizing: border-box;
+}
